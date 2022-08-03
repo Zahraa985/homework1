@@ -13,5 +13,4 @@ Title element: Descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![code refactor demo](./Assets/)
-
+![code refactor demo](./assets/images/01-html-css-git-homework-demo.png)
